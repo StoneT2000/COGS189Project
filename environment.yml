@@ -1,0 +1,13 @@
+name: cogs189
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - pip
+  - cython
+  - tqdm
+  - yaml
+  - jupyterlab
