@@ -11,3 +11,5 @@ dependencies:
   - tqdm
   - yaml
   - jupyterlab
+  - h5py
+  - pandas
