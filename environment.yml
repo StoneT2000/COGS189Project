@@ -13,3 +13,5 @@ dependencies:
   - jupyterlab
   - h5py
   - pandas
+  - mne
+  - sns
